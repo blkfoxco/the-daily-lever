@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Newsletter
+    url: https://thedailylever.com
+    about: Subscribe to The Daily Lever newsletter — one lever per email.
+  - name: Email the maintainer
+    url: mailto:hello@thedailylever.com
+    about: Anything that doesn't fit a template, or you'd rather not file publicly.

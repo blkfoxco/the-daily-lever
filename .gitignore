@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / vaults
+.obsidian/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (in case agent tooling lands here later)
+node_modules/
+npm-debug.log*
+
+# Python (same)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# Internal / not for public repo
+/working-files/
+/website/
