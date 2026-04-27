@@ -26,3 +26,7 @@ venv/
 # Internal / not for public repo
 /working-files/
 /website/
+
+# Eval workspaces (sibling to skill source) — local development only
+/skill-workspace/
+/skill/evals/

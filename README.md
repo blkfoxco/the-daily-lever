@@ -47,6 +47,8 @@ Point any agent (Claude, ChatGPT, Cursor, your own) at this folder and ask it to
 
 See [`AGENTS.md`](./AGENTS.md) for example prompts and tips for getting good output, and [`examples/sample-routine-audit.md`](./examples/sample-routine-audit.md) for what an agent's output actually looks like when scoring a real day against the vault.
 
+**Or install the skill for one-click routine audits.** The vault is packaged as an installable skill for Anthropic's Claude products — Cowork, claude.ai, and Claude Code. Drag the `.skill` bundle from the [latest release](https://github.com/blkfoxco/the-daily-lever/releases/latest) into your Claude product of choice. Source: [`skill/SKILL.md`](./skill/SKILL.md). For ChatGPT, Cursor, or any other agent, point it at this repository directly using the prompts above.
+
 ## Vault index
 
 | Topic | Note |
