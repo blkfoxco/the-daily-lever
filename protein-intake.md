@@ -81,8 +81,7 @@ What makes it worse: typical Western diets hover around 1.0–1.2 g/kg, plant-ba
 
 ## Related Notes
 
-- [[Creatine Intake]]  
-- [[Resistance Training]]  
+- [[daily-creatine-use]]
 
 ## Sources
 

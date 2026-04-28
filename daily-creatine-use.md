@@ -80,9 +80,7 @@ Low dietary creatine (vegetarian/vegan diets), aging, and high-volume power trai
 
 ## Related Notes
 
-- [[Protein Timing and Total Intake]]  
-- [[Resistance Training Programming]]  
-- [[Supplements with Strong Evidence]]
+- [[protein-intake]]
 
 ## Sources
 

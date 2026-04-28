@@ -78,9 +78,7 @@ What makes negative effects more likely: late-day consumption (impairs sleep), u
 
 ## Related Notes
 
-- [[caffeine-sensitivity]]
-- [[metabolic-health-coffee]]
-- [[liver-health-nutrition]]
+- [[evidence-optimized-workday]]
 
 ## Sources
 

@@ -78,9 +78,7 @@ If your average is below 5,000–7,000 steps on most days → start the actionab
 
 ## Related Notes
 
-- [[Sedentary Behavior]]  
-- [[Physical Activity Guidelines]]  
-- [[Mental Health Through Movement]]
+- [[prolonged-sitting]]
 
 ## Sources
 
