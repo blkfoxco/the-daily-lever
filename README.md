@@ -64,6 +64,10 @@ See [`AGENTS.md`](./AGENTS.md) for example prompts and tips for getting good out
 | Alcohol | [alcohol-consumption.md](./alcohol-consumption.md) |
 | Format guide | [health-note-format-guide.md](./health-note-format-guide.md) |
 
+## Newsletter
+
+Short, evidence-anchored emails in the same "one study, one action" format as the vault. No spam, unsubscribe in one click. [Subscribe at thedailylever.com](https://thedailylever.com).
+
 ## Contributing
 
 Notes follow a strict format. Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) and the [format guide](./health-note-format-guide.md) before opening a PR.
