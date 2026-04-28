@@ -6,6 +6,7 @@ Thumbs.db
 .obsidian/
 .idea/
 .vscode/
+.claude/
 *.swp
 *.swo
 
@@ -27,6 +28,7 @@ venv/
 /working-files/
 /website/
 
-# Eval workspaces (sibling to skill source) — local development only
-/skill-workspace/
+# Eval workspaces — local development only
+# (main eval workspace lives at working-files/skill-workspace/, already
+# covered by /working-files/ above; this catches /skill/evals/ output too)
 /skill/evals/
