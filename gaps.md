@@ -18,7 +18,7 @@ These have strong evidence bases, broad daily relevance, and clean primary sourc
 
 - **Hydration / water intake** — tied to cognitive performance, kidney function, and exercise capacity. The creatine note touches on water briefly but there's no standalone evidence review.
 - **Stress / cortisol management** — chronic psychological stress is an independent CVD and mortality risk factor. The evidence on structured breathing (physiological sigh, box breathing), meditation, and social connection is now well-supported.
-- **Resistance training programming** — referenced in both the creatine and sitting notes but has no dedicated file. Frequency, volume, progressive overload, compound vs. isolation movements.
+- ~~**Resistance training programming** — referenced in both the creatine and sitting notes but has no dedicated file. Frequency, volume, progressive overload, compound vs. isolation movements.~~
 - **Omega-3 / fish oil** — strong evidence for triglyceride reduction, depressive symptom reduction, and potentially CVD event reduction. ASCEND and VITAL trials are key anchors.
 
 ## Medium-priority
