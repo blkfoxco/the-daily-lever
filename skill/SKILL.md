@@ -131,12 +131,13 @@ Each entry is the minimum needed to audit. For deeper questions or when the user
 
 ### Resistance training
 
-- **Target:** 3 sessions per week, ~30–45 min each, compound movements with progressive overload
-- **Anchor:** combined with daily walking, this clears the 150–300 min/week moderate-to-vigorous physical activity (MVPA) threshold from the sitting evidence
+- **Target:** 3 sessions per week on non-consecutive days, 45–60 min each (incl. warm-up), full-body or upper/lower split with compound movements; 2–3 sets of 8–12 reps per exercise (last 1–2 reps near failure), full range of motion, progressive overload
+- **Headline studies:** Currier et al. (American College of Sports Medicine Position Stand, 2026) — overview of 137 systematic reviews; ≥2 sessions/week reliably improves strength, hypertrophy, power, and physical function. Shailendra et al. 2022 (meta-analysis, 10 cohorts) — any resistance training vs none → 15% lower all-cause mortality, 19% lower cardiovascular disease (CVD) mortality, 14% lower cancer mortality; dose-response peaks at ~60 min/week (~27% all-cause). Paluch et al. (American Heart Association Scientific Statement, 2024) — 30–60 min/week of resistance training is associated with substantial CVD-risk reduction.
+- **Anchor:** combined with daily walking, this clears the 150–300 min/week moderate-to-vigorous physical activity (MVPA) threshold
 - **Common gaps:** 0–1 sessions/week; or all cardio, no lifting (does not provide the same benefit profile)
-- **Compounding lever:** required to fully realize the creatine benefit; also closes the strongest mortality-mitigating component of the sitting gap
-- **Cross-references the creatine note** rather than having its own dedicated note in the vault
-- **Full notes:** https://github.com/blkfoxco/the-daily-lever/blob/main/daily-creatine-use.md and https://github.com/blkfoxco/the-daily-lever/blob/main/prolonged-sitting.md
+- **Compounding lever:** required to fully realize the creatine benefit; also closes the strongest mortality-mitigating component of the sitting gap; supports the protein lever's lean-mass case
+- **Popular-claim correction:** more is not better — daily lifting and ultra-high-volume programs offer little extra over 2–3 well-designed sessions per week when volume and progression are matched
+- **Full note:** https://github.com/blkfoxco/the-daily-lever/blob/main/resistance-training.md
 
 ### Alcohol
 
