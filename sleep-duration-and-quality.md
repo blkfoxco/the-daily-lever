@@ -94,6 +94,8 @@ The risks worsen with shift work, evening screen time/blue light, late caffeine 
 ## Related Notes
 
 - (Add links to other vault notes on related topics as they are created; e.g., caffeine timing, shift-work strategies, or metabolic health)
+- [[sunlight-exposure-and-vitamin-d]]
+- [[evidence-optimized-workday]]
 
 ## Sources
 

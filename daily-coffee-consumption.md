@@ -79,6 +79,7 @@ What makes negative effects more likely: late-day consumption (impairs sleep), u
 ## Related Notes
 
 - [[evidence-optimized-workday]]
+- [[sleep-duration-and-quality]]
 
 ## Sources
 

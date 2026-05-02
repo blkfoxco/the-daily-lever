@@ -86,6 +86,7 @@ Sedentary behavior, inadequate protein intake, and aging amplify these losses. T
 - [[daily-creatine-use]]
 - [[daily-walking]]
 - [[prolonged-sitting]]
+- [[evidence-optimized-workday]]
 
 ## Sources
 

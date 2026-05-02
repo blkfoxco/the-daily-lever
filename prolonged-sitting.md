@@ -74,6 +74,8 @@ If sitting >8 h AND MVPA <150 min/week → highest-risk quadrant. Address MVPA f
 ## Related Notes
 
 - _Link here as the vault grows: MVPA, post-prandial glucose, NEAT, sit-stand desk setup_
+- [[evidence-optimized-workday]]
+- [[daily-walking]]
 
 ## Sources
 

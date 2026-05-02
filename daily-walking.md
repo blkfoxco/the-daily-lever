@@ -79,6 +79,7 @@ If your average is below 5,000–7,000 steps on most days → start the actionab
 ## Related Notes
 
 - [[prolonged-sitting]]
+- [[evidence-optimized-workday]]
 
 ## Sources
 
