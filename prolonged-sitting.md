@@ -1,6 +1,6 @@
 ---
 title: Prolonged Sitting
-category: Movement / Cardiovascular
+category: Movement
 tags: [sitting, sedentary, mortality, cvp, mvpa]
 status: active
 last-updated: 2026-04-24
